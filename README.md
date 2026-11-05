@@ -34,3 +34,9 @@ python -m unittest discover -s tests -v
 - `tests/` — перевірки.
 - `lab02-report.md` — звіт автора.
 - `CHANGELOG.md` — історія змін.
+
+## Звіт і реліз
+
+[Звіт лабораторної №2](lab02-report.md) · [Реліз v1.0.0](https://github.com/73ts23-prog/opi-lab02-python-utils/releases/tag/v1.0.0).
+
+За методичкою відповідь у Moodle — посилання на цей репозиторій: https://github.com/73ts23-prog/opi-lab02-python-utils
