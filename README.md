@@ -33,9 +33,4 @@ python -m unittest discover -s tests -v
 - `main.py` — демонстрація роботи.
 - `tests/` — перевірки.
 - `lab02-report.md` — звіт автора.
-<<<<<<< HEAD
 - `CHANGELOG.md` — історія змін.
-
-=======
-- `CHANGELOG.md` — історія змін.
->>>>>>> origin/main
