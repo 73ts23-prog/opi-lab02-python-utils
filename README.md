@@ -34,4 +34,3 @@ python -m unittest discover -s tests -v
 - `tests/` — перевірки.
 - `lab02-report.md` — звіт автора.
 - `CHANGELOG.md` — історія змін.
-
