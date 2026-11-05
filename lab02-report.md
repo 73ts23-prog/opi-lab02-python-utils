@@ -48,7 +48,7 @@ python -m unittest discover -s tests -v
 - [54104d3](https://github.com/73ts23-prog/opi-lab02-python-utils/commit/54104d3) — merge-коміт через Git API VS Code.
 - [7c39dae](https://github.com/73ts23-prog/opi-lab02-python-utils/commit/7c39dae) — видалення залишкових маркерів у README.
 
-Для роботи виконано `git init`, `add`, `commit`, `push`, `fetch`, `switch`, `merge`, `clone` і `pull`. PR пов’язано з Issues через `Closes #1`, `Closes #2` і `Closes #5`. Усі три PR злиті в `main`, відповідні Issues закрилися автоматично.
+Для роботи виконано `git init`, `add`, `commit`, `push`, `fetch`, `switch`, `merge`, `clone` і `pull`. PR пов’язано з Issues через `Closes #1`, `Closes #2` і `Closes #5`. Усі три PR злиті в `main`. Issues №1 і №2 закрито автоматично; Issue №5 закрито після фінальної перевірки виконаного виправлення.
 
 ## Конфлікт злиття
 
